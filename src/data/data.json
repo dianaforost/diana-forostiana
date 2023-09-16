@@ -1,0 +1,58 @@
+{
+  "experience": [
+    {
+      "title": "TaskPro",
+      "description": "Your smart diary based on React and Redux!",
+      "text": "TaskPro is an innovative application developed by me and my team using React and Redux technologies.TaskPro is your personal electronic diary that will make your life easier and increase your productivity"
+    },
+    {
+      "title": "Show",
+      "description": "Movies website 'SHOW'",
+      "text": "Show was created for easy search of popular movies and movies by search. Implemented pagination."
+    },
+    {
+      "title": "Phonebook",
+      "description": "Phonebook for adding, deleting and reading contacts.",
+      "text": "To get started, you need to register or log into an existing account and you will have your own contacts. Back-end was also realized by Diana Forostiana. Implemented pagination and logout."
+    }
+  ],
+  "techSkiils": {
+    "title": "Technical Skills",
+    "skills": [
+      "HTML",
+      "CSS",
+      "SAAS",
+      "JavaScript",
+      "React",
+      "React Native",
+      "Redux",
+      "Next.js",
+      "Tailwind CSS",
+      "TypeScript",
+      "Node.js",
+      "Git"
+    ]
+  },
+  "softSkills": {
+    "title": "Soft Skills",
+    "skills": [
+      "Creativity",
+      "Team work",
+      "Strong adaptation",
+      "Time management",
+      "Problem solving"
+    ]
+  },
+  "footer": {
+    "title": "Footer",
+    "info": [
+      { "title": "Skills", "list": ["Technical", "Design", "Project"] },
+      {
+        "title": "Projects",
+        "list": ["SpaceXperience", "RoboBank", "CodeWarriors"]
+      },
+      { "title": "Contact", "list": ["Email", "Phone", "LinkedIn"] }
+    ],
+    "footerContent": "© 2023 Diana Forostiana."
+  }
+}
